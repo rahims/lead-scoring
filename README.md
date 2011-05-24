@@ -8,7 +8,7 @@ This example works with the Twilio API, so you'll need an account and phone numb
 Installation
 ============
 
-Installation of this lead scoring example is simple as uploading this folder to your web server and editing `include.php`.
+Installation of this lead scoring example is as simple as uploading this folder to your web server and editing `include.php`.
 
 After you've uploaded the folder and edited `include.php`, go to your [Twilio numbers page](https://www.twilio.com/user/account/phone-numbers/) and point the Voice URL of your desired phone number to `http://yourserver/lead-scoring/handle-incoming-call.php`
 
