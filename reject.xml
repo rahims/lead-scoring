@@ -1,0 +1,4 @@
+<Response>
+	<Say voice="woman">Sorry, the agent has decided to go with someone else.</Say>
+	<Hangup />
+</Response>

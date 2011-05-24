@@ -1,0 +1,5 @@
+<Response>
+	<Dial>
+		<Conference>lead_connect</Conference>
+	</Dial>
+</Response>

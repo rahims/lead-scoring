@@ -1,0 +1,6 @@
+<Response>
+	<Say voice="woman">Please hold a moment while the agent evaluates your call.</Say>
+	<Dial>
+		<Conference>lead_connect</Conference>
+	</Dial>
+</Response>
