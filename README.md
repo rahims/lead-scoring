@@ -1,7 +1,7 @@
 Twilio Lead Scoring
 ===================
 
-This is a basic example of how one would do lead scoring using Twilio. You'll want to modify it a bit in actual production.
+This is a basic example of how one would do lead scoring using Twilio. You'll want to modify it a bit in actual production since this example only works with one agent (you'll likely want to route to multiple agents in the real world).
 
 This example works with the Twilio API, so you'll need an account and phone number at Twilio before you can get started. Twilio sells simple, pay as you go phone services, and you can sign up for a free account with $30 of free credits at [http://www.twilio.com](http://www.twilio.com).
 
