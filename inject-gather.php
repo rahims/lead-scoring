@@ -42,4 +42,7 @@
 			'Url' => BASE_URL.'gather.php?agent='.$agent.'&lead='.$lead
 		));
 	}
+	else {
+		echo 'Could not get call SIDs for the calls. Please ensure that the call is active and that both agent and lead can hear each other. If so, please refresh the page to try again.';
+	}
 ?>
