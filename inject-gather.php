@@ -25,7 +25,7 @@
 		}
 	}
 
-	if ( (strlen($agent) == 34) && (strlen($agent) == 34) )
+	if ( (strlen($agent) == 34) && (strlen($lead) == 34) )
 	{
 		echo 'Injecting &lt;Gather&gt;<br>';
 
