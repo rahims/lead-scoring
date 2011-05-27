@@ -18,7 +18,8 @@
 			{
 				$agent = $call->Sid;
 			}
-			else {
+			else if ($call->To == FROM_NUMBER)
+			{
 				$lead = $call->Sid;
 			}
 		}
