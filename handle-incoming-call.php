@@ -14,7 +14,7 @@
 ?>
 <Response>
 	<Say voice="woman">Please wait while I connect you.</Say>
-	<Dial>
+	<Dial action="handle-hangup.php">
 		<!-- Put the lead in a conference room -->
 		<Conference>lead_connect</Conference>
 	</Dial>

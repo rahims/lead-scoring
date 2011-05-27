@@ -1,5 +1,5 @@
 <Response>
-	<Dial>
+	<Dial action="handle-hangup.php">
 		<Conference>lead_connect</Conference>
 	</Dial>
 </Response>
